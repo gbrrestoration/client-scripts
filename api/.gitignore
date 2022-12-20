@@ -6,7 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-
 # Distribution / packaging
 .Python
 build/
@@ -138,8 +137,10 @@ local_testing
 # hiding thunder storage
 thunder-tests
 
-# tokens 
+# tokens
 .tokens.json
 
-# dump outputs 
+# dump outputs
 dumps
+
+*.txt
